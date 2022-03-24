@@ -10,4 +10,19 @@ As the cost for this system is quite less it is primarily focused for the farmer
 
 This project uses the two arduino. One for sending the data to the cloud and another for recieving the data and according to the data it activates a actuator connected to it
 
-<img src=../../Daigrams/Flowchart_Sensor_System.png>
+## This flowchart shows the working process of first arduino or sensor system
+<img src=Diagrams/Flowchart_Sensor_System.png>
+
+## This flowchart shows the working process of second arduino or actuator system
+<img src=Diagrams/Flowchart_Actuator_System.png>
+
+# Circuit Diagram
+
+## Sensor System
+
+<img src=Diagrams/Circuit_Sensor_System.png>
+
+## Actuator System
+
+<img src=Diagrams/Circuit_Actuator_System​.png>
+
