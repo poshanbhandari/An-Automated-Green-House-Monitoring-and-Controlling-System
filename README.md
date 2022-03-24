@@ -9,3 +9,5 @@ The controller communicates with the various sensor module in real-time in order
 As the cost for this system is quite less it is primarily focused for the farmers of the Nepal as they cannot afford high end devices. LCD screen and website has been used so that user can easily monitor from anywhere.
 
 This project uses the two arduino. One for sending the data to the cloud and another for recieving the data and according to the data it activates a actuator connected to it
+
+<img src=../../Daigrams/Flowchart_Sensor_System.png>
